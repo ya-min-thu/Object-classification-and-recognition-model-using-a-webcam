@@ -10,3 +10,8 @@ This project aims to develop an object classification and recognition model usin
 - MobileNet: A pre-trained deep learning model for image classification.
 - HTML/CSS: For building the user interface.
 - JavaScript: For implementing the logic, handling user interactions, and integrating TensorFlow.js for model training and inference.
+
+## Demo: 
+
+https://github.com/ya-min-thu/Object-classification-and-recognition-model-using-a-webcam/assets/59698016/45b1ec09-da88-438c-852b-78523fc4afdf
+
